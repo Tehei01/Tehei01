@@ -2,7 +2,7 @@
 
 I’m a Advanced Computer Science student majoring in AI at UWA
 
-I passionate about AI, simulations, making games and making AIs to play these games.
+Passionate about AI, simulations, making games and making AIs to play these games.
 
 ### Projects
 -  Diplomacy Bot using Monte Carlo Tree Search
