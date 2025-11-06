@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Tehei
 
-<!--
-**Tehei01/Tehei01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Advanced Computer Science student majoring in AI at UWA
 
-Here are some ideas to get you started:
+I passionate about AI, simulations, making games and making AIs to play these games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+-  Diplomacy Bot using Monte Carlo Tree Search
+-  Simulating virtual memory and process management
+-  Used NEAT to make an AI play a basic game
+-  Simple compiler that compiles from an imaginary language to C
+
+### Skills
+Python • C • SQL • java • CAD • Numpy • Pandas • Matplotlib • Pygame
+
+### How to reach me
+- Email: bob913@protonmail.com
+- Phone: 0414 104 394
+
