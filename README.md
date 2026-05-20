@@ -14,6 +14,6 @@ Passionate about AI, simulations, making games and making AIs to play these game
 Python • C • SQL • java • CAD • Numpy • Pandas • Matplotlib • Pygame
 
 ### How to reach me
-- Email: bob913@protonmail.com
+- Email: tehei.cabanis@protonmail.com
 - Phone: 0414 104 394
 
